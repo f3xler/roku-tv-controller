@@ -1,0 +1,20 @@
+TERMS OF USE AND CODE PROTECTION
+
+This software is provided for personal use only.
+
+UNAUTHORIZED COPYING, MODIFICATION, OR DISTRIBUTION IS PROHIBITED.
+
+By using this software, you agree to:
+- Not remove, modify, or bypass any credits or attribution
+- Not redistribute this code without explicit permission
+- Not use this code for commercial purposes without authorization
+- Respect the original author's rights
+
+Violation of these terms may result in legal action.
+
+For licensing inquiries, contact the repository owner.
+
+---
+Made by f3xler
+All rights reserved.
+
